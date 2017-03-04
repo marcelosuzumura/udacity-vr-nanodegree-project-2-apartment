@@ -1,8 +1,18 @@
-# Udacity VR Nanodegree
+# Udacity VR Nanodegree - Project 2: Apartment
 
-## Build an Apartment
-### by Marcelo Suzumura
+## What is this project?
+An apartment decorated with furniture and lighting to be viewed using Cardboard VR.
 
-- it took me about 8h to be able to submit the project
-- I had some prior knowledge about setting up some scenes on Unity, but did not know much about lighting and animations, so these topics took me the most time playing around
-- I particularly liked how the assets were provided and how they were already scaled to size (mostly)
+![Screenshot](/Screenshots/Screenshot_2017-01-23-22-41-26.png)
+![Screenshot](/Screenshots/Screenshot_2017-01-23-22-41-40.png)
+![Screenshot](/Screenshots/Screenshot_2017-01-23-22-41-59.png)
+![Screenshot](/Screenshots/Screenshot_2017-01-23-22-42-17.png)
+![Screenshot](/Screenshots/Screenshot_2017-01-23-22-42-30.png)
+![Screenshot](/Screenshots/Screenshot_2017-01-23-22-42-50.png)
+
+## What is needed to run it?
+- download Google VR SDK version 1.0
+- import it into the project
+
+## Write-up
+https://virtualrealitypop.com/udacity-vr-nanodegree-1st-and-2nd-projects-7f4b6413117d
